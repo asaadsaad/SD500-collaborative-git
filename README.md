@@ -43,5 +43,5 @@ Assume we are working with the following upstream: `https://github.com/asaadsaad
 11. Push your changes to the remote
 12. Create a new Pull Request to the upstream
   
-##Exercise 2
+## Exercise 2
 Read the following (Article)[https://backlog.com/git-tutorial/branching-workflows/] and write down your notes on the Branching Workflows. 
