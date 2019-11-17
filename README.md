@@ -21,7 +21,7 @@
 **Practice all the remote repository commands from the slides:**
 1. Create a remote repository
 2. Create `README.md`
-3. Add at least 5 markdown syntax (Headers, Bold, Code, Unordered List, Links)
+3. Add at least 5 markdown syntax (Headers, Bold, Code, Unordered List, Links) [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 4. `git remote`
 5. `git clone`
 6. `git push`
