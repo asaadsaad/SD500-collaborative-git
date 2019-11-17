@@ -21,7 +21,7 @@ Practice all the local repository commands from the slides:
 Practice all the remote repository commands from the slides:  
 1. Create a remote repository
 2. Create `README.md`
-3. Add at least 5 markdown syntax (Headers, Bold, Code, Unordered List, Ordered List)
+3. Add at least 5 markdown syntax (Headers, Bold, Code, Unordered List, Links)
 4. `git remote`
 5. `git clone`
 6. `git push`
@@ -44,4 +44,4 @@ Assume we are working with the following upstream: `https://github.com/asaadsaad
 12. Create a new Pull Request to the upstream
   
 ## Exercise 2
-Read the following (Article)[https://backlog.com/git-tutorial/branching-workflows/] and write down your notes on the Branching Workflows. 
+Read the following [Blog Article](https://backlog.com/git-tutorial/branching-workflows/) and write down your notes on the Branching Workflows. 
