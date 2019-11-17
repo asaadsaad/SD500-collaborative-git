@@ -1,6 +1,6 @@
 # MSD - CS445 - Collaborative Git
 ## Exercise 01
-**Practice all the local repository commands from the slides:**
+**Practice all the local repository commands from the slides:
 1. `git init`
 2. `git status`
 3. `git diff`
@@ -18,7 +18,7 @@
 15. Undo changes from a certain commit `git revert`
 16. Erase commits with `git reset`
   
-**Practice all the remote repository commands from the slides:  **
+**Practice all the remote repository commands from the slides:
 1. Create a remote repository
 2. Create `README.md`
 3. Add at least 5 markdown syntax (Headers, Bold, Code, Unordered List, Links)
@@ -28,7 +28,7 @@
 7. `git fetch`
 8. `git pull`
   
-**Practice all the third party repositories commands from the slides:  **
+**Practice all the third party repositories commands from the slides:  
 Assume we are working with the following upstream: `https://github.com/asaadsaad/autocannon_clinic`
 1. Star the repository
 2. Watch the repository for any changes
