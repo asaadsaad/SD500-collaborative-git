@@ -1,4 +1,4 @@
-# MSD - CS445 - Collaborative Git
+# CS445 - Collaborative Git
 ## Exercise 01
 **Practice with all the local repository commands from the slides:**
 1. `git init`
