@@ -35,7 +35,10 @@ Assume we are working with the [following upstream](https://github.com/asaadsaad
 9. Merge your `studentId-studentName` branch with the main branch
 10. Push your changes to your remote repo
 11. Create a new Pull Request to the upstream repo
-
-## Optional Requirements
+  
+## What to submit?
+Write down all of the commands you tried in a new `commands.md` file, stage and push it.
+  
+## Optional 
 Get familiar with the [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (Headers, Bold, Code, Unordered List, Links)
   
