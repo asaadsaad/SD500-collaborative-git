@@ -22,6 +22,8 @@
 5. `git fetch`
 6. `git pull`
   
+**this is github first exercise**
+
 ## Practice with all the third party repositories commands from the slides:
 Assume we are working with the [following upstream](https://github.com/asaadsaad/SD500-collaborative-git/)
 1. Star the repository
@@ -38,6 +40,20 @@ Assume we are working with the [following upstream](https://github.com/asaadsaad
   
 ## What to submit?
 Write down all of the commands you tried in a new `commands.md` file, stage and push it.
+
+this are the command which i wastrying to learn on git exercise
+git add
+git commit
+git log
+git tag
+git branch
+git switch
+git merge
+git clone
+git remote
+git push
+git fetch
+git pull
   
 ## Optional 
 Get familiar with the [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (Headers, Bold, Code, Unordered List, Links)
