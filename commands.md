@@ -1,0 +1,21 @@
+ this are commands I have tried
+ -make empty directory with the name: sd500
+-make empty directory to my current directory
+-git init
+-git status
+-create a new file with the name myfile.ts
+-created .ignore file
+-git add //from working directory to staging index
+-git commite  //commited my first file
+- git log // show me what the change is and the (head is main)
+-git tag
+-create a branch // mybranch
+-git switch    //to my current branch
+-git merge   //my branch
+- modefied the cureent file and used add and commit together and see the change 
+-create a conflict and resolve 
+git push  origin main /Users/mengeshatsegaye/Desktop/nb/mengesha1.github.io/MSD415/d35recursion/index.html
+-- crete conflict and resolve the conflict7008&
+-git clone
+-git remote
+- git push
