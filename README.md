@@ -42,3 +42,18 @@ Write down all of the commands you tried in a new `commands.md` file, stage and 
 ## Optional 
 Get familiar with the [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (Headers, Bold, Code, Unordered List, Links)
   
+
+  ## Commands i tried
+1. `git init`
+2. `git status`
+3. `git diff`
+4.  `git pull`
+5. `git add`
+6. `git commit`
+7. `git log`
+8. `git tag`
+9. `git branch`
+10. `git switch`
+11. `git merge`
+12. `git clone`
+13. `git remote`
