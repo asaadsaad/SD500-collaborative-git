@@ -1,7 +1,7 @@
 # SD500 - Collaborative Git
 
 ## Practice with all the local repository commands from the slides:
-1. `git init`
+1. `git init` **To create a local repository from remote repository**
 2. `git status`
 3. `git diff`
 4. Create `.gitignore` file, and notice how it works
