@@ -1,3 +1,4 @@
+**This is my first github practice**
 # SD500 - Collaborative Git
 
 ## Practice with all the local repository commands from the slides:
@@ -38,7 +39,24 @@ Assume we are working with the [following upstream](https://github.com/asaadsaad
   
 ## What to submit?
 Write down all of the commands you tried in a new `commands.md` file, stage and push it.
+* I have practiced the following comands
+
+git add
+git commit
+git log
+git tag
+git branch
+git switch
+git merge
+
+git clone
+git remote
+git push
+git fetch
+git pull
+ 
   
 ## Optional 
 Get familiar with the [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (Headers, Bold, Code, Unordered List, Links)
+
   
