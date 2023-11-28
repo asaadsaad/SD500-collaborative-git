@@ -42,3 +42,5 @@ Write down all of the commands you tried in a new `commands.md` file, stage and 
 ## Optional 
 Get familiar with the [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (Headers, Bold, Code, Unordered List, Links)
   
+## today is my first fork
+###   study more about git
