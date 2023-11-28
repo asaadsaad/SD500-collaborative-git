@@ -1,5 +1,8 @@
-# SD500 - Collaborative Git
+ 610001-Rojin Bijukchhe
 
+I am adding this in rojin branch
+
+<!-- # SD500 - Collaborative Git
 ## Practice with all the local repository commands from the slides:
 1. `git init`
 2. `git status`
@@ -41,4 +44,4 @@ Write down all of the commands you tried in a new `commands.md` file, stage and 
   
 ## Optional 
 Get familiar with the [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (Headers, Bold, Code, Unordered List, Links)
-  
+   -->
